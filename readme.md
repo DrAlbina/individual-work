@@ -7,3 +7,4 @@
 *Student Repositories
 *Git Classroom
 *Permissions
+*Automated Testing
